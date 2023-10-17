@@ -1,0 +1,19 @@
+{
+  "name": "cordova-native-cache",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for native cache",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "cordova": {
+    "id": "cordova-native-cache",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "author": "Paulo Solipa",
+  "license": "ISC"
+}
